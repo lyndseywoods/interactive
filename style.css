@@ -1,0 +1,10 @@
+body {
+  background: black;
+  margin: 0px;
+  overflow: hidden;
+}
+
+h1{
+  color: white;
+  text-align: center
+}
